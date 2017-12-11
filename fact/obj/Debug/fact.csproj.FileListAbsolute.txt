@@ -1,0 +1,8 @@
+c:\users\hassan ahmed\documents\visual studio 2012\Projects\fact\fact\bin\Debug\fact.exe.config
+c:\users\hassan ahmed\documents\visual studio 2012\Projects\fact\fact\bin\Debug\fact.exe
+c:\users\hassan ahmed\documents\visual studio 2012\Projects\fact\fact\bin\Debug\fact.pdb
+c:\users\hassan ahmed\documents\visual studio 2012\Projects\fact\fact\obj\Debug\fact.csprojResolveAssemblyReference.cache
+c:\users\hassan ahmed\documents\visual studio 2012\Projects\fact\fact\obj\Debug\fact.exe
+c:\users\hassan ahmed\documents\visual studio 2012\Projects\fact\fact\obj\Debug\fact.pdb
+E:\C sharp\fact\fact\bin\Debug\fact.exe.config
+E:\C sharp\fact\fact\obj\Debug\fact.exe
